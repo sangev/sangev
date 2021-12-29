@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sangev / Aligned
+- 👋 Hi, I’m Aligned
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on a Unity Engine Integration with Blockchain + NFT Avatar Marketplace
